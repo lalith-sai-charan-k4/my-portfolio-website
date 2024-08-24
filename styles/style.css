@@ -8,7 +8,7 @@
 /* Defining global CSS variables for consistent design */
 :root {
     --primary: #D3E97A;
-    --primary-bg: #171717;
+    --primary-bg: #0d0d0d;
     --secondary-bg: #222222;
     --normal-text-color: #c7c7c7;
     --container-width: 1320px;
@@ -87,7 +87,7 @@ h3 {
     font-weight: 700;
 
     /* Colors and Background */
-    color: #171717;
+    color: #0d0d0d;
     background-color: #D3E97A;
 
     /* Box Model */
@@ -110,7 +110,7 @@ h3 {
     margin-left: 12px;
 
     /* Background */
-    background-color: #171717;
+    background-color: #0d0d0d;
 
     /* Shape */
     border-radius: 50%;
@@ -161,7 +161,7 @@ body {
     padding-top: 156px;
 
     /* Background and color */
-    background-color: #171717;
+    background-color: #0d0d0d;
 
     /* Overflow control */
     overflow-x: hidden;
@@ -310,7 +310,7 @@ main {
     gap: 40px;
 
     /* Background */
-    background-color: #171717;
+    background-color: #0d0d0d;
 }
 
 /* Hero Container */
@@ -356,7 +356,7 @@ main {
 
 .social-buttons a:hover {
     background-color: #D3E97A;
-    color: #171717;
+    color: #0d0d0d;
     transform: scale(1.1);
 }
 
@@ -424,7 +424,7 @@ main {
     font-size: 20px;
     font-family: "Poppins", system-ui;
     font-weight: 600;
-    color: #171717;
+    color: #0d0d0d;
 
     /* Layout */
     display: inline-block;
@@ -437,7 +437,7 @@ main {
     width: 10px;
 
     /* Shape and Background */
-    background-color: #171717;
+    background-color: #0d0d0d;
     border-radius: 50%;
     flex-shrink: 0;
 
@@ -463,7 +463,7 @@ main {
     padding: 64px 0;
 
     /* Background */
-    background-color: #171717;
+    background-color: #0d0d0d;
 }
 
 /* Hire Me Container */
@@ -531,7 +531,7 @@ main {
 .card:hover .icon-container,
 .card:hover h3,
 .card:hover p {
-    color: #171717;
+    color: #0d0d0d;
 }
 
 
@@ -629,7 +629,7 @@ main {
     padding: 64px 0;
 
     /* Background */
-    background-color: #171717;
+    background-color: #0d0d0d;
 }
 
 .projects .container {
@@ -825,7 +825,7 @@ main {
     padding: 64px 0;
 
     /* Background */
-    background-color: #171717;
+    background-color: #0d0d0d;
 }
 
 .contact-us .container {
