@@ -972,17 +972,20 @@ footer .links {
 
 /* Hide scrollbars for Firefox */
 html {
-    scrollbar-width: none; /* Firefox */
+    scrollbar-width: none;
+    /* Firefox */
 }
 
 /* Hide scrollbars for Internet Explorer and Edge Legacy */
 body {
-    -ms-overflow-style: none; /* Internet Explorer and Edge Legacy */
+    -ms-overflow-style: none;
+    /* Internet Explorer and Edge Legacy */
 }
 
 /* Hide scrollbars for all other browsers */
 * {
-    overflow: -moz-scrollbars-none; /* Hide scrollbars in older versions of Firefox */
+    overflow: -moz-scrollbars-none;
+    /* Hide scrollbars in older versions of Firefox */
 }
 
 
@@ -1338,10 +1341,10 @@ body {
         font-size: 18px;
     }
 
-    .primary-btn,
+    /* .primary-btn,
     .skill {
         font-size: 12px;
-    }
+    } */
 
     .hire-me-container {
         flex-direction: column;
@@ -1442,14 +1445,14 @@ body {
 
     /* .logo {
         font-size: 24px;
-    }
+    } */
 
-    h1,
     h2 {
         font-size: 24px;
         line-height: 28.8px;
     }
 
+    /* 
     .overline {
         font-size: 14px;
     }
@@ -1516,15 +1519,15 @@ body {
         gap: 16px;
     }
 
-    .hero-container img{
+    .hero-container img {
         height: 125px;
     }
 
-    .scroll-container{
+    .scroll-container {
         padding-right: 24px;
     }
 
-    .block{
+    .block {
         gap: 16px;
     }
 
@@ -1579,7 +1582,7 @@ body {
         font-size: 14px;
     } */
 
-    .skills{
+    .skills {
         gap: 8px;
     }
 
@@ -1646,10 +1649,11 @@ body {
         display: block;
     }
 
-    .more-info .buttons{
+    .more-info .buttons {
         flex-direction: column;
         gap: 12px;
     }
+
     .more-info .buttons .border-button {
         height: 39px;
         /* font-size: 12px; */
@@ -1680,7 +1684,7 @@ body {
     }
 
 
-    
+
 
     .nav-links a:hover::after,
     .nav-links a:active::after {
