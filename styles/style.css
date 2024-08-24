@@ -1440,7 +1440,7 @@ body {
     }
 
 
-    .logo {
+    /* .logo {
         font-size: 24px;
     }
 
@@ -1462,16 +1462,16 @@ body {
 
     .body-text {
         font-size: 14px;
-    }
+    } */
 
     .navbar {
         display: block;
         padding: 0;
     }
 
-    .nav-links a {
+    /* .nav-links a {
         font-size: 14px;
-    }
+    } */
 
     .navbar .logo-and-icon {
         display: flex;
@@ -1528,14 +1528,14 @@ body {
         gap: 16px;
     }
 
-    .banner .text {
+    /* .banner .text {
         font-size: 16px;
-    }
+    } */
 
-    .primary-btn,
+    /* .primary-btn,
     .skill {
         font-size: 12px;
-    }
+    } */
 
     .hire-me-container {
         flex-direction: column;
@@ -1575,9 +1575,9 @@ body {
         display: block;
     }
 
-    .tech-stack .bold {
+    /* .tech-stack .bold {
         font-size: 14px;
-    }
+    } */
 
     .skills{
         gap: 8px;
@@ -1591,9 +1591,9 @@ body {
         display: block;
     }
 
-    .projects a {
+    /* .projects a {
         font-size: 12px;
-    }
+    } */
 
     .projects .project {
         flex-direction: column;
@@ -1617,13 +1617,13 @@ body {
         padding: 10px 0;
     }
 
-    .project .content .text .title {
+    /* .project .content .text .title {
         font-size: 12px;
-    }
+    } */
 
-    .title-capitalize {
+    /* .title-capitalize {
         font-size: 14px;
-    }
+    } */
 
     .project .img-container {
         height: 300px;
@@ -1652,7 +1652,7 @@ body {
     }
     .more-info .buttons .border-button {
         height: 39px;
-        font-size: 12px;
+        /* font-size: 12px; */
     }
 
 
@@ -1661,9 +1661,9 @@ body {
         padding: 32px 0;
     }
 
-    footer .copyright {
+    /* footer .copyright {
         font-size: 14px;
-    }
+    } */
 
     footer .container {
         flex-direction: column;
