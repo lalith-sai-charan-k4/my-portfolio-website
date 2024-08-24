@@ -1252,7 +1252,7 @@ body {
 
 
 /* responsive styling of navbar */
-@media (min-width: 576px) and (max-width: 768px) {
+@media (max-width: 768px) {
 
     .navbar,
     .hero-container,
